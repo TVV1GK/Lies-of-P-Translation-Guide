@@ -79,7 +79,7 @@ Choose which tool you want to use for repacking: [*Repak*](#repak) (recommended)
 
 #### Repak
 
-1. Download [Repak](https://github.com/matyalatte/UE4-DDS-Tools/releases/latest)
+1. Download [Repak](https://github.com/trumank/repak/releases/latest)
 	- If you chose the `.msi` version: Simply install it
 	- If you chose the `.zip` version: Extract it
 2. Open a **new** Command Prompt window in the folder containing your `LiesofP` folder
